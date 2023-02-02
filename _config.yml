@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Suein Choi"
   avatar           : "/assets/images/profilephoto.jpg"
-  bio              : "<p>**Clinical pharmacology,<br>  Big data analyst,<br>  Pharmacometrician</p>**"
+  bio              : "<p><strong> Clinical pharmacology,<br>  Big data analyst,<br>  Pharmacometrician</strong></p>"
   location         : "Seoul, Korea"
   email            :
   links:
