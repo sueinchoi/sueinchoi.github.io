@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Suein Choi's Research portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Suein Choi"
+name                     : "Suein Choi, MD. phD"
 description              : "Research portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -105,14 +105,14 @@ analytics:
 # Site Author
 author:
   name             : "Suein Choi"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**Clinical pharmacology, Big data analyst, Pharmacometrician**"
-  location         : "Best city in the world, Seoul"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "**Clinical pharmacology,\n Big data analyst, \n Pharmacometrician**"
+  location         : "Seoul, Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: "mailto:mychloe00@gmail.com"
+      url: "mailto:mychloe00@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
